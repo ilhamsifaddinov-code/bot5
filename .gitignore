@@ -1,0 +1,12 @@
+.env
+*.env
+*.db
+*.sqlite
+*.sqlite3
+clinic.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
